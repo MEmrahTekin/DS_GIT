@@ -1,6 +1,4 @@
 buda deneme 4 olsun
-<<<<<<< HEAD
+
 3 ü sildim 6 yaptım
-=======
-3 ü sildim 5 yaptım
->>>>>>> d4aa4dcea5fcc784b2c0830514681e899ae0c23b
+
